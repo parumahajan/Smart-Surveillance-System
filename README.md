@@ -6,11 +6,11 @@ The Smart Surveillance System is an AI-driven, real-time security solution desig
 # **Problem Statement**
 Security threats such as unauthorized intrusions, theft, and privacy violations are common in manually monitored surveillance systems. These challenges arise due to:
 
-**Delayed Intruder Detection** – CCTV footage is reactive, not proactive.
+🔹**Delayed Intruder Detection** – CCTV footage is reactive, not proactive.
 
-**Human Error in Monitoring** – Security guards cannot monitor 24/7 without fatigue.
+🔹**Human Error in Monitoring** – Security guards cannot monitor 24/7 without fatigue.
 
-**Lack of Instant Alerts** – No immediate notification system for unauthorized entries.
+🔹**Lack of Instant Alerts** – No immediate notification system for unauthorized entries.
 
 # **Key Features**
 ✔ Live Facial Recognition – Detects unauthorized individuals in real-time.
@@ -38,11 +38,11 @@ Face Recognition – Identifies and classifies individuals.
 *Math* – Calculates recognition confidence levels.
 
 # **Alert System:**
-*Twilio SMS API* – Sends instant text alerts.
+🔹*Twilio SMS API* – Sends instant text alerts.
 
-*Twilio Voice API* – Makes automated calls to security personnel.
+🔹*Twilio Voice API* – Makes automated calls to security personnel.
 
-*Twilio WhatsApp API* – Sends WhatsApp notifications for intrusions.
+🔹*Twilio WhatsApp API* – Sends WhatsApp notifications for intrusions.
 
 # **Backend & Processing:**
 Python – Core development language for AI and automation.
