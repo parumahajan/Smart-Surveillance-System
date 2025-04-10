@@ -1,6 +1,6 @@
 # Smart-Surveillance-System
 
-🔒 **Introduction**
+# **Introduction**
 The Smart Surveillance System is an AI-driven, real-time security solution designed to enhance safety and automate threat detection. Traditional surveillance relies on manual monitoring, which is inefficient and prone to human errors. Our system integrates facial recognition with an automated alert system, providing real-time SMS notifications to security personnel.
 
 🏆 **Problem Statement**
