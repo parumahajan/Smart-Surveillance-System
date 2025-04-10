@@ -14,10 +14,15 @@ Security threats such as unauthorized intrusions, theft, and privacy violations 
 
 # **Key Features**
 ✔ Live Facial Recognition – Detects unauthorized individuals in real-time.
+
 ✔ Automated Security Alerts – Sends instant notifications via Twilio API.
+
 ✔ Seamless Multi-Threaded Processing – Ensures smooth and lag-free performance.
+
 ✔ Fire Detection – Detects fire incidents and notifies the fire department.
+
 ✔ Cloud-Ready Deployment – Scalable across multiple devices and cloud platforms.
+
 ✔ Smart Lock Integration – Can control locks, alarms, and remote access systems.
 
 # **Architecture**
