@@ -15,18 +15,13 @@ Security threats such as unauthorized intrusions, theft, and privacy violations 
 # **Key Features**
 ✔ Live Facial Recognition – Detects unauthorized individuals in real-time.
 
-
 ✔ Automated Security Alerts – Sends instant notifications via Twilio API.
-
 
 ✔ Seamless Multi-Threaded Processing – Ensures smooth and lag-free performance.
 
-
 ✔ Fire Detection – Detects fire incidents and notifies the fire department.
 
-
 ✔ Cloud-Ready Deployment – Scalable across multiple devices and cloud platforms.
-
 
 ✔ Smart Lock Integration – Can control locks, alarms, and remote access systems.
 
@@ -59,19 +54,30 @@ Python – Core development language for AI and automation.
 *Processing:*	Multi-threaded Execution
 
 # **Feasibility & Scalability**
+
 🔹 Technical Feasibility
+
 ✔ Operates on lightweight hardware (Raspberry Pi, low-end computers).
+
 ✔ Optimized AI model ensures real-time detection.
+
 ✔ Low maintenance – automatic updates, seamless performance.
 
 🔹 **Operational Feasibility**
+
 ✔ User-Friendly Security Dashboard – Simple for hostel/staff to use.
+
 ✔ Minimal Training Required – Intuitive operation.
+
 ✔ Automated Reporting – Maintains logs of detected faces & security incidents.
 
+
 🔹**Economic Feasibility**
+
 ✔ Low-cost implementation compared to commercial solutions.
+
 ✔ No additional security staff required – Saves time, cost, and effort.
+
 ✔ Flexible storage – Choose between cloud or local storage.
 
 # **Live Demonstration**
