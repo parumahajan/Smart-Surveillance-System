@@ -58,7 +58,7 @@ Python – Core development language for AI and automation.
 
 # **Feasibility & Scalability**
 
-🔹 Technical Feasibility
+🔹 **Technical Feasibility**
 
 ✔ Operates on lightweight hardware (Raspberry Pi, low-end computers).
 
