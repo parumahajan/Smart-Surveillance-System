@@ -63,6 +63,7 @@ Python – Core development language for AI and automation.
 
 ✔ Low maintenance – automatic updates, seamless performance.
 
+
 🔹 **Operational Feasibility**
 
 ✔ User-Friendly Security Dashboard – Simple for hostel/staff to use.
@@ -70,6 +71,7 @@ Python – Core development language for AI and automation.
 ✔ Minimal Training Required – Intuitive operation.
 
 ✔ Automated Reporting – Maintains logs of detected faces & security incidents.
+
 
 
 🔹**Economic Feasibility**
