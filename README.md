@@ -71,7 +71,9 @@ Python – Core development language for AI and automation.
 
 # **Live Demonstration**
 ✅ Real-time AI-powered facial recognition detecting authorized and unauthorized individuals.
+
 ✅ Live video feed analyzing entrances.
+
 ✅ Instant Security Alerts – SMS alert received via Twilio API.
 
 # **Team Members**
