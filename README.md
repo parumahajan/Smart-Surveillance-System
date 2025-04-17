@@ -45,7 +45,7 @@ The Smart Surveillance System operates using a modular AI and Computer Vision ap
 🔹*Twilio WhatsApp API* – Sends WhatsApp notifications for intrusions.
 
 # **Backend & Processing:**
-Python – Core development language for AI and automation.
+**Python** – Core development language for AI and automation.
 
 # **Tech Stack**
 **Programming:** Python
