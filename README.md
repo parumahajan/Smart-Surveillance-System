@@ -49,8 +49,11 @@ Python – Core development language for AI and automation.
 
 # **Tech Stack**
 *Programming:* Python
+
 *AI/ML:*	OpenCV, NumPy
+
 *Alert System:*	Twilio API
+
 *Processing:*	Multi-threaded Execution
 
 # **Feasibility & Scalability**
