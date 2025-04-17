@@ -29,7 +29,7 @@ Security threats such as unauthorized intrusions, theft, and privacy violations 
 The Smart Surveillance System operates using a modular AI and Computer Vision approach:
 
 # **AI & Computer Vision:**
-Face Recognition – Identifies and classifies individuals.
+*Face Recognition* – Identifies and classifies individuals.
 
 *OpenCV* – Image processing and real-time video analysis.
 
