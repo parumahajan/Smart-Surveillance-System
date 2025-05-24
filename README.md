@@ -91,10 +91,3 @@ The Smart Surveillance System operates using a modular AI and Computer Vision ap
 ✅ Live video feed analyzing entrances.
 
 ✅ Instant Security Alerts – SMS alert received via Twilio API.
-
-# **Team Members**
-1) Boggarapu Dhanush (RA2211032010023)
-2) Pranav Mahajan (RA2211032010001)
-3) Victor Khangebam (RA2211031010141)
-4) Lakshaya Pandya (RA2211031010143)
-
